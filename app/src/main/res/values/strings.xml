@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Heliolar</string>
+
+
+    <string name="bienvenido">
+        Gracias por usar Heliolar, te diremos un par de cosas que debes saber antes de empezar a usarlo
+    </string>
+
+    <string name="primer_usp">
+        Lo primero es conectar tu bateria a tu smartphone y verificar que sea detectado por la app
+    </string>
+
+    <string name="movimiento">
+        Recuerda que tienes dos formas de cargar tu Heliolar: Con energía solar y con movimiento
+    </string>
+
+    <string name="comencemos">
+        Bienvenido al futuro de la energía móvil. Para mas información visita nuestra página web.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

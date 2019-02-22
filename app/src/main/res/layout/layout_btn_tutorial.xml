@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/layout_btn_tutorial"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:layout_weight="1"
+              android:weightSum="5"
+              android:paddingStart="20dp"
+              android:paddingEnd="20dp"
+              android:gravity="center">
+
+    <Button
+            android:id="@+id/btn_finalizar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_redondo"
+            android:layout_weight="3"
+            android:text="Finalizar"/>
+
+
+
+</LinearLayout>
